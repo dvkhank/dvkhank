@@ -66,6 +66,6 @@
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 <p aligh = "center">
   <a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/WQH6UVADEP2M">
-    
+    <img src= "certificates/">
   </a>
 </p>
