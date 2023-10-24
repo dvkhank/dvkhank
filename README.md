@@ -63,9 +63,19 @@
 
 # Certificates:
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 <p aligh = "center">
   <a href = "https://www.coursera.org/account/accomplishments/specialization/certificate/WQH6UVADEP2M">
-    <img src= "certificates/">
+    <img src ="certificates/Coursera - Duong Van Khanh.png" width=300px>
+  </a>
+</p>
+<p aligh = "center">
+  <a href = "https://drive.google.com/file/d/18qBk-lod4-iZn1v8fUi7CSLCa92VVT0t/view?usp=sharing">
+    <img src ="certificates/Certificate - Duong Van Khanh.png" width=300px>
+  </a>
+</p>
+
+<p aligh = "center">
+  <a href = "https://drive.google.com/file/d/1TqgIVPnNIPx-gibCKIHtuq1Qy6-AE-zx/view?usp=sharing">
+    <img src ="certificates/TOEIC - Duong Van Khanh.jpg" width=300px>
   </a>
 </p>
