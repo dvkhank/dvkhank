@@ -62,7 +62,7 @@
 </table>
 
 # Certificates:
-<div width = "100%" display = "flex"><div width = "33%"><img src = "certificates/TOEIC - Duong Van Khanh.jpg" width = "100%"> </div> <div width = "33%"><img src = "certificates/Coursera - Duong Van Khanh.png" width = 100%" ></div> <div width = "33%"><img src = "certificates/Certificate - Duong Van Khanh.png" width = 100%></div> </div>
+<div width = "33%"><img src = "certificates/Coursera - Duong Van Khanh.png" width = 100%" ></div> <div width = "33%"><img src = "certificates/Certificate - Duong Van Khanh.png" width = 100%></div> </div>
 
 
 
